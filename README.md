@@ -1,4 +1,4 @@
-# UnrealToUnityClassSelector
+# Unreal To Unity Class Selector
 
 A project that bridges the class reference functionality of Unreal Engine with Unity. This system allows developers to select and use class types in the Unity Inspector, similar to Unreal Engine's class reference variable.
 
