@@ -10,7 +10,7 @@ A project that bridges the class reference functionality of Unreal Engine with U
 
 ## Requirements
 
-- Unity 2022.3.26f1
+- Unity 2022.3.26f1+
 
 ## Installation
 
@@ -18,7 +18,7 @@ A project that bridges the class reference functionality of Unreal Engine with U
 
 First, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/UnrealToUnityClassSelector.git
+[https://github.com/Kearinl/UClassSelector-Unreal-To-Unity-Class-Selector.git](https://github.com/Kearinl/UClassSelector-Unreal-To-Unity-Class-Selector.git)
 
 ### 2. Open the Project:
 
